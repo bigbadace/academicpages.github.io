@@ -13,6 +13,7 @@
 	    "10": "Thug",
 	    "12": "Lady/Love/Sex",
 	    "15": "Gangsta",
+	    "17": "Nigerian",
 	    "23": "Mind/Thought",
 	    "24": "Raunchy",
  	    "25": "Fashion",
@@ -20,13 +21,18 @@
 	    "34": "Politics",
 	    "35": "French",
  	    "36": "Finnish",
+            "37": "Gun Violence",
             "45": "Rhyme/Flow",
 	    "49": "Rap/Music/Record",
 	    "40": "Feels",
 	    "28": "Turkish",
 	    "44": "Movement",
 	    "38": "Trap",
-	    "20": "Colors"		
+	    "20": "Colors",
+            "65": "Dutch",
+            "68": "Morbid",
+	    "76": "Family",
+	    "21": "Christianity"		
 	}    
     }, 
     "meta_info": "<h2></h2>", 
